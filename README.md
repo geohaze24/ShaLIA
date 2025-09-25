@@ -6,7 +6,7 @@ ShaLIA suite is a complete, integrated ensemble of interconnected tools for susc
 
 <strong>ShaLIA Random Splitting</strong>
 
-This script processes a landslide INVENTORY dataset (stored as point, line od polygon features) by splitting it into two distinct subsets: one for model calibration, used to train and fine-tune the predictive model, and another for model validation, used as an independent dataset to assess model accuracy and performance. The user can specify the percentage of data to be extracted from the total inventory points for calibration purposes. The remaining points are automatically allocated to the validation subset. By allowing adjustable sampling ratios, the script provides flexibility in dataset partitioning, supporting robust statistical evaluation of landslide prediction models.
+This script processes a landslide INVENTORY dataset (stored as point, line or polygon features) by splitting it into two distinct subsets: one for model calibration, used to train and fine-tune the predictive model, and another for model validation, used as an independent dataset to assess model accuracy and performance. The user can specify the percentage of data to be extracted from the total inventory points for calibration purposes. The remaining points are automatically allocated to the validation subset. By allowing adjustable sampling ratios, the script provides flexibility in dataset partitioning, supporting robust statistical evaluation of landslide prediction models.
 
 <strong>ShaLIA pre</strong>
 
