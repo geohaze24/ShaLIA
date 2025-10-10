@@ -10,7 +10,7 @@ This script processes a landslide INVENTORY dataset (stored as point, line or po
 
 <strong>ShaLIA pre</strong>
 
-<italic>Shalia pre</italic> is the model that prepares files for ShaLIA (Shallow Landslides Initiation Assessment). It is a small model that allows you to output the 7 raster files required for ShaLIA. The original DTM allows you to export 4 raster files:
+<strong>Shalia pre</strong> is the model that prepares files for ShaLIA (Shallow Landslides Initiation Assessment). It is a small model that allows you to output the 7 raster files required for ShaLIA. The original DTM allows you to export 4 raster files:
 - Slope
 - Aspect
 - Terrain Roughness Index (TRI)
