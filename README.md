@@ -27,6 +27,10 @@ The final output consists of 7 raster files + the original DTM, for a total of 8
 <strong>ShaLIA</strong>
 
 The ShaLIA (Shallow Landslides Initiation Assessment) GIS tool, to assess shallow landslide susceptibility at basin and regional scales. The susceptibility analysis is conducted following a typical data driven approach, where statistical algorithms extract predictive patterns from geospatial inventories and predisposing factors. By systematically correlating historical landslide occurrences with terrain parameters (e.g., slope, lithology, land use), this approach objectively quantifies spatial probabilities of future failures. The tool employs a bi-variate statistical approach that evaluates seven time-independent predisposing factors: lithology, land use, soil thickness, slope, aspect, Terrain Wetness Index (TWI), and Terrain Roughness Index (TRI). The indexing of predisposing factors is conducted using the Frequency Ratio methodology, widely used and validated in the scientific literature and derived from Bayes' theorem.
+<div align="center">
+	<img width="800" src="screenshalia.jpg" alt="ShaLIA - example">
+</div>
+
 
 <strong>ROC Analysis</strong>
 
