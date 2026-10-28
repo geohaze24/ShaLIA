@@ -2,7 +2,7 @@
 <strong>Shallow Landslides Initiation Assessment GIS tools suite</strong>
 
 
-ShaLIA suite is a complete, integrated ensemble of interconnected tools for susceptibility analysis of shallow landslides. The scripts can be easily managed by a moderately skilled GIS operator.
+ShaLIA suite is a complete, integrated ensemble of interconnected tools for susceptibility analysis of shallow landslides. The scripts can be easily managed by a moderately skilled GIS operator (GeoHazards 2026, 7(4), 104; https://doi.org/10.3390/geohazards7040104).
 
 <strong>ShaLIA Random Splitting</strong>
 
