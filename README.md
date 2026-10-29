@@ -36,7 +36,7 @@ The ShaLIA (Shallow Landslides Initiation Assessment) GIS tool, to assess shallo
 
 This model is subsequent to the production of the SUSCEPTIBILITY MAP and it is used to check the validity of the model. It uses the susceptibility map and compares it with certain landslide areas in the area chosen randomly at the start of the work, usually 50% of the total areas, precisely to assess the validity of the model created. It needs the original landslide areas used to create the original susceptibility map: in this case these areas will be excluded from the analysis. A ROC curve (Receiver Operating Characteristic curve), is produced by a table. Only three input files, the model, the check ares for validation and the check areas for calibration and a few seconds to get the answer in a table with the data.
 <div align="center">
-	<img width="800" src="screenrocanalysis.png" alt="ShaLIA - example">
+	<img width="400" src="screenrocanalysis.png" alt="ROC Analysis - example">
 </div>
 
 
